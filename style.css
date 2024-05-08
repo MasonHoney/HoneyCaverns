@@ -1,0 +1,27 @@
+#icon {
+    height: 40px;
+    width: 40px;
+    margin-right: 5px;
+}
+
+nav ul{
+    border: 3px solid black;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav a {
+    display: flex;
+    color: red;
+    align-items: center;
+    margin: 5px;
+    text-decoration: none;
+}
+
+nav li {
+    
+    margin-right: 10%;
+    list-style: none;
+    
+}
